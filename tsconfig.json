@@ -5,6 +5,9 @@
         "noImplicitAny": false,
         "sourceMap": false
     },
+    "include": [
+        "**/*"
+    ],
     "exclude": [
         "node_modules"
     ]
